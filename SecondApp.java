@@ -1,8 +1,8 @@
 class SecondApp
 {
-public static void main(String []args) {
+public void printsecondapp() {
     
-      System.out.println("Hello World");
+      System.out.println("Hello World from second App");
 }
 
 }
